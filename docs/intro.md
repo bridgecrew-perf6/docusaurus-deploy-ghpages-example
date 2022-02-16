@@ -3,6 +3,6 @@ sidebar_position: 1
 slug: /
 ---
 
-# Ejemplo
+# Ejemplo de despliegue
 
 Sitio desarrollado con **Docusaurus** ✨.
